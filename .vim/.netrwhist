@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/ppious/scripts/python/test'
+let g:netrw_dirhist_2='/Users/ppious/git/fk-mysql-slow-log-parser/DEBIAN'
+let g:netrw_dirhist_3='/Users/ppious/scripts/python/test'
+let g:netrw_dirhist_4='/Users/ppious/scripts/python/test/utils'
+let g:netrw_dirhist_5='/Users/ppious/scripts/python/test'
+let g:netrw_dirhist_6='/Users/ppious/git/autobuild/server'
+let g:netrw_dirhist_7='/Users/ppious/git/autobuild/server/dhcpconfd'
+let g:netrw_dirhist_8='/Users/ppious/git/autobuild/server'
